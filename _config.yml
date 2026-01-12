@@ -1,6 +1,6 @@
 title: James Hansen
 #logo:  /path to photo file
-logo: https://media.licdn.com/dms/image/v2/D4E03AQHrsjcNeQP6Og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675197792560?e=1769644800&v=beta&t=qdzgSFfMBINOPltCrb_3XBtb-G0bqJLN131YCxu2xhs
+logo: /assets/Professional Headshot.jpg
 #description:  text below image
 show_downloads: true
 theme:  jekyll-theme-minimal
