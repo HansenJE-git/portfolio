@@ -18,7 +18,11 @@ Public data project portfolio
 - Developed an automated data feed and performance analytics for several automated marketing campaigns.  Cumulatively, the campaigns significantly accelerated adoption of electronic banking services, increased debit card spend and resulted in hundreds of new deposit accounts.
 
 
-### Projects
-Project 1
+## Projects
+###Project 1
 
-Project 2
+Description of project 1
+
+###Project 2
+
+Description of project 2
