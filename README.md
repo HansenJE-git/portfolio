@@ -1,5 +1,4 @@
 # Data Analyst
-Public data project portfolio
 
 #### Technical Skills:  SQL,  Tableau, Python, Palantir Foundry, MS SQL Server (SSRS/SSMS)
 
