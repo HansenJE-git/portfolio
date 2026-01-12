@@ -1,6 +1,6 @@
 title: James Hansen
 #logo:  /path to photo file
-logo: /assets/Professional Headshot.jpg {width=10%}
+logo: /assets/Headshot_small.jpg
 #description:  text below image
 show_downloads: true
 theme:  jekyll-theme-minimal
