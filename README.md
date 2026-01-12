@@ -4,8 +4,8 @@ Public data project portfolio
 #### Technical Skills:  SQL,  Tableau, Python, Palantir Foundry, MS SQL Server (SSRS/SSMS)
 
 ## Education
-- MBA, Management | University of Connecticut (_2013_)
-- B.S., Computer Science | Trinity College (_2001_)
+- M.B.A. (Management), University of Connecticut (_2013_)
+- B.S. (Computer Science) Trinity College (_2001_)
 
 ## Work Experience
 **Data Scientist @ U.S. Department of Health and Human Services (_Jul, 2024 – Nov, 2025_)**
